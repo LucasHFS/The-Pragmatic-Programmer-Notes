@@ -1,7 +1,5 @@
 
-This is my summary of the The Pragmatic Programmer, by Andrew Hunt and David Thomas. I use it while learning and as quick reference. It is not intended to be an standalone substitution of the book so if you really want to learn the concepts here presented, buy and read the book and use this repository as a reference and guide.
-
-If you are the publisher and think this repository should not be public, just write me an email at hugomatilla [at] gmail [dot] com and I will make it private.
+This is a summary of the The Pragmatic Programmer, by Andrew Hunt and David Thomas. I use it while learning and as quick reference. It is not intended to be an standalone substitution of the book so if you really want to learn the concepts here presented, buy and read the book and use this repository as a reference and guide.
 
 Contributions: Issues, comments and pull requests are super welcome 😃
 There is a [Quick Reference](#quick-reference) at the end.
@@ -1322,16 +1320,6 @@ Come to understand your users' expectations, then deliver just that little bit m
 Craftsmen of an earlier age were proud to sign their work. You should be, too.
 
 ## CheckList
-
-### Languages To Learn
-Tired of C, C++, and Java? Try the following languages. Each of these languages has different capabilities and a different "flavor." Try a small project at home using one or more of them.
-- CLOS
-- Dylan
-- Eiffel
-- Objective C
-- Prolog
-- Smalltalk
-- TOM
 
 ### The WISDOM Acrostic
 - **W**hat do you want them to learn?
